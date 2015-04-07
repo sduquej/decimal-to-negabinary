@@ -1,0 +1,25 @@
+{
+  "name": "decimal-to-negabinary",
+  "version": "1.0.0",
+  "description": "Utility for base conversion of a number in base-10 to negabinary",
+  "main": "decimalToNegabinary.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sduquej/decimal-to-negabinary.git"
+  },
+  "author": "Sebastián Duque",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sduquej/decimal-to-negabinary/issues"
+  },
+  "homepage": "https://github.com/sduquej/decimal-to-negabinary",
+  "devDependencies": {
+    "mocha": "^2.2.1"
+  }
+}
